@@ -8,6 +8,7 @@ let add = document.getElementById("add");
 let re = document.getElementById("re");
 let int = document.getElementById("id");
 let intm = 0;
+//fff
 
 //add.addEventListener('click',function(){
 
